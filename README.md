@@ -8,19 +8,19 @@ The client's expense and income data were imported and compiled from a Plaid API
 
 The transactions were grouped into categories to demonstrate spending per type of transaction as well as the number of transactions per category.
 
-![](images/spending_per_cat.png)
+![](API_HW/images/spending_per_cat.png)
 
-![](images/trans_per_cat.png)
+![](API_HW/images/trans_per_cat.png)
 
 The client's income data was extracted from Plaid in order to determine the gross annual income for 2019, projected income for 2020, and current monthly income.
 
-![](images/income_data.png)
+![](API_HW/images/income_data.png)
 
 Finally, the expense data was grouped by month to determine monthly expenditures.
 
-![](images/monthly_expenses.png)
+![](API_HW/images/monthly_expenses.png)
 
-![](images/monthly_expenses_bar.png)
+![](API_HW/images/monthly_expenses_bar.png)
 
 Based on the current projected annual income of $7,389, the average monthly expense of $10,645.24 far exceeds the recommended budget for this particular client.
 
@@ -28,17 +28,17 @@ Based on the current projected annual income of $7,389, the average monthly expe
 
 Closing prices for the SPDR S&P 500 ETF Trust (SPY) and iShares Barclays Aggregate Bond Fund (AGG) were imported using the IEX Finance API in order to generate the daily return on investment for the previous year's worth of data.
 
-![](images/historical_data.png)
+![](API_HW/images/historical_data.png)
 
-![](images/daily_roi.png)
+![](API_HW/images/daily_roi.png)
 
 Based on the previous year's returns, a Monte Carlo simulation was used to calculate 500 randomized simulated cumululative returns over the next 30 years of a portfolio consisting of SPY and AGG given a 60/40 stock bond allocation.
 
-![](images/monte_carlo.png)
+![](API_HW/images/monte_carlo.png)
 
-![](images/monte_carlo_plot.png)
+![](API_HW/images/monte_carlo_plot.png)
 
-![](images/cum_confidence_returns.png)
+![](API_HW/images/cum_confidence_returns.png)
 
 The cumulative return performing at the 50th percentile is found to be 12,608.22%. The 10th percentile return is projected at 7,295.51%, and the 90th percentile return at 20,830.95%. Given an initial investment of $20,000, the cumulative returns were calculated to be the following:
 
