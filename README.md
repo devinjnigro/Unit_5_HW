@@ -4,7 +4,7 @@ Unit 5: API Homework
 ## Budget Analysis
 The client's expense and income data were imported and compiled from a Plaid API in order to produce a sample transaction history starting on 10/31/2019 and ending on 1/29/2020, as seen below.
 
-![](images/expense_chart.png)
+![](API_HW/images/expense_chart.png)
 
 The transactions were grouped into categories to demonstrate spending per type of transaction as well as the number of transactions per category.
 
