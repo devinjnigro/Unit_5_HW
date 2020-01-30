@@ -1,4 +1,4 @@
-export PLAID_CLIENT_ID='5e234adf5d37d30011875681'
+export PLAID_CLIENT_ID='tjhwakjgfhkasjdhfsajdflsj$$$'
 export PLAID_PUBLIC_KEY="b554fdd8f1491f2508b830c69bd7a7"
 export PLAID_SECRET="b554fdd8f1491f2508b830c69bd7a7"
 
